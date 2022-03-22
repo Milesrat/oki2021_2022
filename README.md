@@ -3,4 +3,3 @@
 program napisany w C++
 ###### polska wersja polish version
 [OKI strona link: https://oki.org.pl/]
-(https://oki.org.pl/)
