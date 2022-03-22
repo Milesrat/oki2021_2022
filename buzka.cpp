@@ -7,3 +7,5 @@ int main() {
  cout << "----(_)----";
 	return 0; //wszystko okej
 }
+// I am happy
+// Jestem szczesliwa
