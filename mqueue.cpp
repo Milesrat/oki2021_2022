@@ -14,12 +14,18 @@ Author: Anna Jeżo  nick: Milesrat
 using namespace std;
 
 class mqueue {
+public:
+ mqueue() { 
+    first = last = -1;
+ } 
+private:
  vector<int> elements;
  int first, last;
 };	
 
 int main() {
  mqueue	payments;
-	
+ mqueue	payments2;
+
  return 0;
 }
